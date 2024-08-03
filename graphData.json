@@ -1,0 +1,406 @@
+{
+  "nodes": [
+    {
+      "id": "Subham Bhansali",
+      "group": "Person"
+    },
+    {
+      "id": "Kolkata",
+      "group": "Location"
+    },
+    {
+      "id": "West Bengal",
+      "group": "Location"
+    },
+    {
+      "id": "India",
+      "group": "Location"
+    },
+    {
+      "id": "Indian Institute Of Engineering Science And Technology, Shibpur",
+      "group": "Education institution"
+    },
+    {
+      "id": "Delhi Public School Ruby Park, Kolkata",
+      "group": "Education institution"
+    },
+    {
+      "id": "Mechanical Engineering",
+      "group": "Field of study"
+    },
+    {
+      "id": "English",
+      "group": "Language"
+    },
+    {
+      "id": "Hindi",
+      "group": "Language"
+    },
+    {
+      "id": "Bengali",
+      "group": "Language"
+    },
+    {
+      "id": "C++",
+      "group": "Programming language"
+    },
+    {
+      "id": "Python",
+      "group": "Programming language"
+    },
+    {
+      "id": "Mysql",
+      "group": "Database"
+    },
+    {
+      "id": "Matlab",
+      "group": "Software/tool"
+    },
+    {
+      "id": "Pytorch",
+      "group": "Skill"
+    },
+    {
+      "id": "Tensorflow",
+      "group": "Skill"
+    },
+    {
+      "id": "Keras",
+      "group": "Software/tool"
+    },
+    {
+      "id": "Langchain",
+      "group": "Software/tool"
+    },
+    {
+      "id": "Arduino",
+      "group": "Software/tool"
+    },
+    {
+      "id": "Power Bi",
+      "group": "Tool"
+    },
+    {
+      "id": "Machine Learning",
+      "group": "Skill"
+    },
+    {
+      "id": "Gans",
+      "group": "Skill"
+    },
+    {
+      "id": "Docker",
+      "group": "Software/tool"
+    },
+    {
+      "id": "Data Structures",
+      "group": "Skill"
+    },
+    {
+      "id": "Computer Vision",
+      "group": "Skill"
+    },
+    {
+      "id": "Data Analysis",
+      "group": "Skill"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": "Interest"
+    },
+    {
+      "id": "Robotics",
+      "group": "Interest"
+    },
+    {
+      "id": "Pdf Qa Chatbot",
+      "group": "Project"
+    },
+    {
+      "id": "Url Summarizer",
+      "group": "Project"
+    },
+    {
+      "id": "Tool Wear Detection Using Cnn",
+      "group": "Project"
+    },
+    {
+      "id": "Customer Sentiment Analysis",
+      "group": "Project"
+    },
+    {
+      "id": "Number Plate Detection",
+      "group": "Project"
+    },
+    {
+      "id": "Disease Prediction",
+      "group": "Project"
+    },
+    {
+      "id": "Rava.Ai",
+      "group": "Company"
+    },
+    {
+      "id": "Hiremeclub",
+      "group": "Company"
+    },
+    {
+      "id": "Geeksforgeeks",
+      "group": "Organization"
+    },
+    {
+      "id": "Pwc",
+      "group": "Organization"
+    },
+    {
+      "id": "Iotiot",
+      "group": "Organization"
+    },
+    {
+      "id": "Technical Content Writer",
+      "group": "Job title"
+    },
+    {
+      "id": "Data Analyst Intern",
+      "group": "Job title"
+    },
+    {
+      "id": "Project Lead",
+      "group": "Job title"
+    },
+    {
+      "id": "Svms",
+      "group": "Skill"
+    },
+    {
+      "id": "Ml Model",
+      "group": "Tool"
+    },
+    {
+      "id": "Yolov5 Architecture",
+      "group": "Tool"
+    }
+  ],
+  "links": [
+    {
+      "source": "Subham Bhansali",
+      "target": "Kolkata",
+      "value": "LIVES_IN"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "West Bengal",
+      "value": "LOCATED_IN"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "India",
+      "value": "LOCATED_IN"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Indian Institute Of Engineering Science And Technology, Shibpur",
+      "value": "STUDIED_AT"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Delhi Public School Ruby Park, Kolkata",
+      "value": "STUDIED_AT"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Mechanical Engineering",
+      "value": "STUDIED"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "English",
+      "value": "SPEAKS"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Hindi",
+      "value": "SPEAKS"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Bengali",
+      "value": "SPEAKS"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "C++",
+      "value": "KNOWS"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Python",
+      "value": "KNOWS"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Mysql",
+      "value": "KNOWS"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Matlab",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Pytorch",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Tensorflow",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Keras",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Langchain",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Arduino",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Power Bi",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Machine Learning",
+      "value": "HAS_SKILL"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Gans",
+      "value": "HAS_SKILL"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Docker",
+      "value": "USES"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Data Structures",
+      "value": "HAS_SKILL"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Computer Vision",
+      "value": "HAS_SKILL"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Data Analysis",
+      "value": "HAS_SKILL"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Artificial Intelligence",
+      "value": "INTERESTED_IN"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Robotics",
+      "value": "INTERESTED_IN"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Pdf Qa Chatbot",
+      "value": "WORKED_ON"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Url Summarizer",
+      "value": "WORKED_ON"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Tool Wear Detection Using Cnn",
+      "value": "WORKED_ON"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Customer Sentiment Analysis",
+      "value": "WORKED_ON"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Number Plate Detection",
+      "value": "WORKED_ON"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Disease Prediction",
+      "value": "WORKED_ON"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Rava.Ai",
+      "value": "WORKED_AT"
+    },
+    {
+      "source": "Subham Bhansali",
+      "target": "Hiremeclub",
+      "value": "WORKED_AT"
+    },
+    {
+      "source": "Geeksforgeeks",
+      "target": "Technical Content Writer",
+      "value": "WORKED_AS"
+    },
+    {
+      "source": "Pwc",
+      "target": "Data Analyst Intern",
+      "value": "WORKED_AS"
+    },
+    {
+      "source": "Iotiot",
+      "target": "Project Lead",
+      "value": "WORKED_AS"
+    },
+    {
+      "source": "Technical Content Writer",
+      "target": "Pytorch",
+      "value": "INVOLVES_SKILL"
+    },
+    {
+      "source": "Technical Content Writer",
+      "target": "Svms",
+      "value": "INVOLVES_SKILL"
+    },
+    {
+      "source": "Technical Content Writer",
+      "target": "Tensorflow",
+      "value": "INVOLVES_SKILL"
+    },
+    {
+      "source": "Data Analyst Intern",
+      "target": "Power Bi",
+      "value": "USED_TOOL"
+    },
+    {
+      "source": "Data Analyst Intern",
+      "target": "Ml Model",
+      "value": "USED_TOOL"
+    },
+    {
+      "source": "Project Lead",
+      "target": "Yolov5 Architecture",
+      "value": "USED_TOOL"
+    }
+  ]
+}
